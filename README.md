@@ -21,7 +21,7 @@ Find The Figma Link Here - https://www.figma.com/file/ahcCECAd59eZtQjLtwGOmD/Mod
 ***
 
 #### Note: You need to have Node.Js installed in your Local Machine if not, first install it from <a href="https://nodejs.org/en/">here</a>.
-##### Step 1) Clone AmanSinghBhogal/Restaurant-App repository.
+##### Step 1) Clone This Repository
 ##### Step 2) Open Restaurant-App cloned Directory in Command Prompt and run the following command (It will install all the Dependencies needed to run):
 ```
 npm i
