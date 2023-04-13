@@ -1,7 +1,7 @@
 
 Find The Live Website Here - https://githarsh19.github.io/LScafe/
 
-Find The Figma Link Here - https://www.figma.com/file/4bbojvkop5SQg7hOFYdmXu/Modern-UI%2FUX%3A-LS-CAFE?node-id=0%3A21&t=cUiBbopSHNZE8EHU-1
+Find The Figma Link Here - https://www.figma.com/file/ahcCECAd59eZtQjLtwGOmD/Modern-UI%2FUX%3A-LS-CAFE-INTERNSHIP?node-id=0%3A21&t=oC1a1ixZIYJbxOLW-1
 
 ## Screen Shots:
 <div align="center">
